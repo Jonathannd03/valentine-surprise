@@ -20,7 +20,7 @@
             <NuxtLink to="/memories" class="text-white hover:text-red-500 transition-colors">Memories</NuxtLink>
           </li>
           <li>
-            <NuxtLink to="/love-letter" class="text-white hover:text-red-500 transition-colors">Love Letter</NuxtLink>
+            <NuxtLink to="/love-letter" class="text-white hover:text-red-500 transition-colors">Happy Valentine</NuxtLink>
           </li>
           <li>
             <NuxtLink to="/fun" class="text-white hover:text-red-500 transition-colors">Why</NuxtLink>
@@ -37,7 +37,7 @@
             <NuxtLink to="/memories" class="text-white hover:text-red-500 transition-colors">Memories</NuxtLink>
           </li>
           <li>
-            <NuxtLink to="/love-letter" class="text-white hover:text-red-500 transition-colors">Love Letter</NuxtLink>
+            <NuxtLink to="/love-letter" class="text-white hover:text-red-500 transition-colors">Happy Valentine</NuxtLink>
           </li>
           <li>
             <NuxtLink to="/fun" class="text-white hover:text-red-500 transition-colors">Why</NuxtLink>
