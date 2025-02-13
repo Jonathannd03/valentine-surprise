@@ -1,5 +1,6 @@
 <template>
-  <div class="min-h-screen bg-black/50 backdrop-blur-md transition-opacity duration-300 opacity-100 text-white">
+  <div class="min-h-screen bg-black/50 backdrop-blur-md transition-opacity duration-300 opacity-100 text-white"
+  @click="triggerConfetti">
     <Navbar />
     <div class="min-h-screen flex flex-col items-center justify-center p-6 relative overflow-hidden">
       
@@ -31,8 +32,8 @@
         </p>
         
         <!-- Button with Confetti Trigger -->
-        <button
-          @click="triggerConfetti"
+        <NuxtLink
+          to="memories"
           class="bg-red-500 text-white px-6 py-3 rounded-xl hover:bg-red-600 transition-all transform hover:scale-105"
           v-motion="{
             initial: { opacity: 0, scale: 0.8 },
@@ -40,7 +41,7 @@
           }"
         >
           Discover
-        </button>
+        </NuxtLink>
       </div>
     </div>
   </div>
