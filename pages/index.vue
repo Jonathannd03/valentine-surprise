@@ -2,10 +2,10 @@
   <div class="min-h-screen bg-black/50 backdrop-blur-md transition-opacity duration-300 opacity-100 text-white">
     <Navbar />
     <div class="min-h-screen flex flex-col items-center justify-center p-4 relative overflow-hidden">
-      <!-- Background video or image -->
+  
       <div class="absolute inset-0 bg-[url('/images/hero-bg.jpg')] bg-cover bg-center opacity-30"></div>
 
-      <!-- Content -->
+ 
       <div class="relative z-10 text-center p-8 mt-10 bg-black/50 rounded-lg shadow-lg backdrop-blur-md">
         <h1
           class="text-6xl font-bold text-red-500 mb-8"

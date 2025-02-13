@@ -4,7 +4,7 @@
       
     >
       <div class="container mx-auto flex justify-between items-center p-4">
-        <h1 class="text-white text-2xl font-bold">To My Queen 👑</h1>
+        <NuxtLink to="/" class="text-white text-2xl font-bold">Vrai Chérie 👑</NuxtLink>
         <!-- Hamburger Menu for Mobile -->
         <button class="md:hidden text-white focus:outline-none" @click="isOpen = !isOpen">
           <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
