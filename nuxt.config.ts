@@ -1,5 +1,7 @@
 import tailwindcss from "@tailwindcss/vite";
 export default defineNuxtConfig({
+  ssr: false,
+  target: "static",
   app: {
     head: {
       title: "Priscillia",
