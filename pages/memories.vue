@@ -19,7 +19,7 @@
             :alt="memory.alt"
             class="w-full h-64 object-cover transform group-hover:scale-110 transition-transform duration-300"
           />
-          <div class="absolute inset-0 bg-black/50 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
+          <div class="absolute inset-0 bg-black/50 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity sm:opacity-100 sm:group-hover:opacity-100">
             <p class="text-white text-lg">{{ memory.caption }}</p>
           </div>
         </div>
