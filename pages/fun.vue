@@ -10,7 +10,7 @@
           enter: { opacity: 1, y: 0, transition: { duration: 1000 } },
         }"
       >
-        <p class="text-white/80 text-lg mb-4">Why did I build you an entire website?</p>
+        <p class="text-white/80 text-lg mb-4">Why did I build you an entire website myself?</p>
         <p class="text-white/80 text-lg">Because you’re worth more than just a text! 💻❤️</p>
       </div>
     </div>
