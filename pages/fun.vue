@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen bg-black/50 backdrop-blur-md transition-opacity duration-300 opacity-100 text-white">
+  <div class="min-h-screen bg-black/70 backdrop-blur-md transition-opacity duration-300 opacity-100 text-white">
     <Navbar />
     <div class="min-h-screen p-8 flex flex-col items-center">
       <h1 class="text-4xl font-bold text-white-500 mb-8 mt-20">Just for Fun 💐</h1>

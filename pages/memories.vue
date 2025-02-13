@@ -1,6 +1,6 @@
 <template>
   <div
-    class="min-h-screen bg-black/50 backdrop-blur-md transition-opacity duration-300 opacity-100 text-white"
+    class="min-h-screen bg-black/70 backdrop-blur-md transition-opacity duration-300 opacity-100 text-white"
   >
     <Navbar />
     <div class="min-h-screen p-8">
@@ -29,7 +29,7 @@
 
           <!-- Caption at the bottom of the image -->
           <div
-            class="absolute bottom-0 left-0 right-0 bg-black/50 p-4 opacity-0 group-hover:opacity-100 transition-opacity sm:opacity-100 sm:group-hover:opacity-100"
+            class="absolute bottom-0 left-0 right-0 bg-black/50 p-4 opacity-100 sm:opacity-100 transition-opacity"
           >
             <p class="text-white text-lg">{{ memory.caption }}</p>
           </div>
