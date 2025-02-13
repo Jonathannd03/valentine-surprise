@@ -24,7 +24,7 @@
             enter: { opacity: 1, y: 0, transition: { duration: 1000 } },
           }"
         >
-          Happy Valentine's Day P 💖
+          Happy Valentine's Day P. 💖
         </h1>
 
         <p
